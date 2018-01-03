@@ -87,11 +87,3 @@ function eventChatCommand(n,c)
         tfm.exec.respawnPlayer(args[2])
     end
 end
-
-
-
-
-
---- ui.addTextArea(1,"<p align='center'><font size='25'>: الفائز بالقرعة هو<br><br><font size='30'><v>Unlocker001</p>",nil,264,20,266,150,1,1,0.8,true)
-
---  ui.addTextArea(1,"<p align='center'><font size='25'>: يتم الإختيار عشوائيًا<br><br><font size='30'><j>test</p>",nil,264,20,266,150,1,1,0.8,true)
