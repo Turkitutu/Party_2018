@@ -1,3 +1,5 @@
+-- Safwanrockz النسخة الاولى مصنوعة من طرف
+-- Turkitutu تم تعديل من طرف
 xml=[[<C><P D="x_bouboum/x_fond/x_f0.jpg" /><Z><S><S L="10" X="-5" H="400" Y="200" T="12" P="0,0,0,0,0,0,0,0" /><S L="10" H="400" X="805" Y="200" T="12" P="0,0,0,0,0,0,0,0" /><S L="200" X="100" H="135" Y="385" T="10" P="0,0,0.3,0,0,0,0,0" /><S L="200" H="135" X="300" Y="385" T="10" P="0,0,0.3,0,0,0,0,0" /><S L="200" X="500" H="135" Y="385" T="10" P="0,0,0.3,0,0,0,0,0" /><S L="200" H="135" X="700" Y="385" T="10" P="0,0,0.3,0,0,0,0,0" /></S><D /><O /></Z></C>]]
 Admins= {Turkitutu=true, Unlocker001=true}
 currentQuestion=1
@@ -6,8 +8,7 @@ tfm.exec.disableAutoNewGame(true)
 system.disableChatCommandDisplay("mc")
 system.disableChatCommandDisplay("rv")
 system.disableChatCommandDisplay("st")
-system.disableChatCommandDisplay("killall")---سوف ابحث عن اسئلة
--- اوك
+system.disableChatCommandDisplay("killall")
 questions={
     {
         q="كم من قطة جبن تفوز بها عند الفوز بالقرعة",
