@@ -1,6 +1,6 @@
-admins={Turkitutu=true}
+admins={["Turkitutu#0000"]=true}
 players={}
-blockPlayer={Turkitutu=true,Unlocker001=true}
+blockPlayer={}
 canChosse = false
 mice = 0
 player = ""
